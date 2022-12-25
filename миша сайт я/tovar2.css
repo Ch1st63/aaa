@@ -1,0 +1,534 @@
+.div1{ 
+    position: absolute;
+    width: 1850px;
+    height: 157px;
+    left: 0px;
+    top: 0px;
+    background: white;
+    border: 3px solid #000000;
+    }
+    h1{
+        position: absolute;
+        width: 876px;
+        height: 103px;
+        left: 522px;
+        font-weight: 600;
+        font-size: 45px;
+        line-height: 55px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #000000;
+    }
+    a.button1{
+        position: absolute;
+    width: 100px;
+    height: 23px;
+    left: 1700px;
+    top: 33px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+    text-decoration: none;
+    }
+    a.button2{
+        position: absolute;
+        width: 207px;
+        height: 23px;
+        left: 1640px;
+    top: 80px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #000000; 
+    }
+    .div2{
+        position: absolute;
+    width: 281px;
+    height: 800px;
+    left: 0px;
+    top: 163px;
+    border: 3px solid #000000;
+    background: white;
+    }
+    
+    h2{
+        position: absolute;
+    width: 281px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+    text-align: center;
+    color: #000000;
+    }
+    
+    a.button3{
+        position: absolute;
+        width: 134px;
+        height: 32px;
+        left: 71px;
+        top: 170px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: #000000;
+        text-decoration: none;
+    }
+    a.button4{
+        position: absolute;
+        width: 134px;
+        height: 32px;
+        left: 71px;
+        top: 210px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: #000000;
+    }
+    a.button5{
+        position: absolute;
+        text-decoration: none;
+        width: 203px;
+        height: 55px;
+        left: 41px;
+        top: 250px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: #000000;
+    }
+    
+    a.button6{
+        position: absolute;
+        text-decoration: none;
+        width: 203px;
+        height: 55px;
+        left: 44px;
+        top: 290px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: #000000;
+    }
+    a.button7{
+        position: absolute;
+        text-decoration: none;
+        width: 164px;
+        height: 55px;
+        left: 63px;
+        top: 330px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .img1{
+        position: absolute;
+        width: 1870px;
+        height: 1000px;
+    }
+
+    .div3{
+        position: absolute;
+    width: 1639px;
+    height: 1500px;
+    left: 281px;
+    top: 160px;
+    }
+    a.button8{
+        position: absolute;
+        text-decoration: none;
+        width: 200px;
+        height: 100px;
+        left: 63px;
+        top: 700px;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 32px;
+        text-align: center;
+        color: blue;
+}
+h3{
+    position: absolute;
+    top:50px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+
+}
+h4{
+    position: absolute;
+    top:100px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h5{
+    position: absolute;
+    top:120px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h6{
+    position: absolute;
+    top:130px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h7{
+    position: absolute;
+    top:200px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h8{
+    position: absolute;
+    top:250px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+
+}
+h9{
+    position: absolute;
+    top:290px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h10{
+    position: absolute;
+    top:310px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h11{
+    position: absolute;
+    top:340px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h12{
+    position: absolute;
+    top:380px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+h13{
+    position: absolute;
+    top:415px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h14{
+    position: absolute;
+    top:440px;
+    width: 700px;
+    height: 65px;
+    left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h15{
+    position: absolute;
+    top:50px;
+    width: 700px;
+    height: 65px;
+    left: 700px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+h16{
+    position: absolute;
+    top:80px;
+    width: 700px;
+    height: 65px;
+    left: 700px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h17{
+    position: absolute;
+    top:110px;
+    width: 700px;
+    height: 65px;
+    left: 700px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+h18{
+    position: absolute;
+    top:140px;
+    width: 700px;
+    height: 65px;
+    left: 700px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 105px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+}
+
+a.button9{
+    position: absolute;
+    left: 320px;
+    top:150px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+
+a.button10{
+    position: absolute;
+    left: 450px;
+    top:180px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button11{
+    position: absolute;
+    left: 475px;
+    top:205px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button12{
+    position: absolute;
+    left: 365px;
+    top:230px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button13{
+    position: absolute;
+    left: 380px;
+    top:320px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button14{
+    position: absolute;
+    left: 420px;
+    top:340px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button15{
+    position: absolute;
+    left: 420px;
+    top:370px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button16{
+    position: absolute;
+    left: 330px;
+    top:440px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button17{
+    position: absolute;
+    left: 370px;
+    top:470px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button18{
+    position: absolute;
+    left: 1020px;
+    top:110px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button19{
+    position: absolute;
+    left: 1070px;
+    top:140px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+a.button20{
+    position: absolute;
+    left: 1040px;
+    top:170px;
+    width: 10px;
+    font-weight: bold;
+    height: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:red;
+}
+.img2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    left:400px;
+}

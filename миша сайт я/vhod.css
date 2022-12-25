@@ -1,0 +1,231 @@
+.div1{ 
+    position: absolute;
+    width: 1850px;
+    height: 157px;
+    left: 0px;
+    top: 0px;
+    background: white;
+    border: 3px solid #000000;
+    }
+
+h1{
+    position: absolute;
+    width: 876px;
+    height: 103px;
+    left: 522px;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 55px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    }
+
+a.button1{
+    position: absolute;
+    width: 100px;
+    height: 23px;
+    left: 1700px;
+    top: 33px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+    text-decoration: none;
+    }
+
+    a.button2{
+    position: absolute;
+    width: 207px;
+    height: 23px;
+    left: 1640px;
+    top: 80px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #000000; 
+    }
+
+.div2{
+    position: absolute;
+    background-color:white;
+    width: 1100px;
+    height:700px;
+    left: 400px;
+    top:200px;
+    border: 3px solid #000000;
+}
+
+h2{
+    position: absolute;
+    width: 700px;
+    height: 100px;
+    left: 400px;
+    font-weight: 600;
+    font-size: 35px;
+    color: #000000;
+}
+
+h3{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 400px;
+    top:100px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #000000;
+}
+
+.input1{
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    left: 400px;
+    top:150px;
+}
+
+h4{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 400px;
+    top:200px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #000000;
+}
+
+.input2{
+    position: absolute;
+    width: 150px;
+    height: 20px;
+    left: 400px;
+    top:260px;
+}
+
+.button3{
+    position: absolute;
+    width: 75px;
+    height: 23px;
+    left: 500px;
+    top: 350px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000; 
+    text-decoration: none;
+    border: 1px solid #000000;
+}
+.div3{
+    position: absolute;
+width: 281px;
+height: 800px;
+left: 0px;
+top: 163px;
+border: 3px solid #000000;
+background: white;
+}
+
+h5{
+    position: absolute;
+width: 281px;
+height: 55px;
+left: 0px;
+top: -90px;
+font-weight: 700;
+font-size: 55px;
+line-height: 67px;
+text-align: center;
+color: #000000;
+}
+
+a.button4{
+    position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 71px;
+    top: 170px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+a.button5{
+    position: absolute;
+    text-decoration: none;
+    width: 134px;
+    height: 32px;
+    left: 71px;
+    top: 210px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+a.button6{
+    position: absolute;
+    text-decoration: none;
+    width: 203px;
+    height: 55px;
+    left: 41px;
+    top: 250px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+
+a.button7{
+    position: absolute;
+    text-decoration: none;
+    width: 203px;
+    height: 55px;
+    left: 44px;
+    top: 290px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+a.button8{
+    position: absolute;
+    text-decoration: none;
+    width: 164px;
+    height: 55px;
+    left: 63px;
+    top: 330px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #000000;
+}
+.img1{
+    position: absolute;
+    width: 1870px;
+    height: 1000px;
+}
+.img2{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 20px;
+    left:400px;
+}
